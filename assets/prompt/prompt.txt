@@ -1,0 +1,1 @@
+crie um validador de bandeiras de cartão de crédito de acordo com os números descritos no arquivo "base.png", sendo que , se o número se iniciar com 34 ou 37 e tiver 15 dígitos, ele é da bandeira "American Express". Faça o algoritmo em JavaScript
